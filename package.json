@@ -30,7 +30,7 @@
     "joi-country-extension": "^1.2.0",
     "joi-key-extensions": "^1.0.10",
     "joi-objectid": "^3.0.1",
-    "mocha": "^7.2.0",
+    "mocha": "^10.2.0",
     "mongodb": "^3.5.7",
     "mongoose": "^5.9.18",
     "node-forge": "^0.9.1",
